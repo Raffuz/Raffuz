@@ -5,7 +5,7 @@
 </div>
 
 
-Junior Front-end Developer from Italy
+                                                ### Junior Front-end Developer from Italy
 
 
 
