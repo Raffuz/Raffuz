@@ -7,13 +7,7 @@
 
 Junior Front-end Developer from Italy
 
----
 
-**🔭 Currently Working On:**
-- A team project, trying to emulate the Peter Fell site.
-
-**🗂️ Portfolio:**
-- My latest project, where we emulated the XBox website, is presented with my team.
 
 **🧑‍💻 Currently Learning:**
 - HTML
@@ -27,11 +21,10 @@ Junior Front-end Developer from Italy
 ---
 
 **Connect with Me:**
-- [LinkedIn](www.linkedin.com/in/raffaele-tarantino-368501b2)
+- [LinkedIn](https://www.linkedin.com/in/raffaele-tarantino-368501b2)
+- [Instagram](https://www.instagram.com/raffa_96t/)
 
-- [Instagram]((https://www.instagram.com/raffa_96t/))
 
----
 
 **Languages and Tools:**
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
