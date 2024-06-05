@@ -20,7 +20,7 @@
 
 **Connect with Me:**
 
-- [![Linkedin](https://img.shields.io/badge/-RaffaeleTarantino-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raffaele-tarantino-368501b2)
+- [![Linkedin](https://img.shields.io/badge/-Raffaele_Tarantino-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raffaele-tarantino-368501b2)
 - [![Instagram](https://img.shields.io/badge/-Raffaele_Tarantino-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/raffa_96t/)
 
 
@@ -30,4 +30,5 @@
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
