@@ -20,7 +20,8 @@
 ---
 
 **Connect with Me:**
-- [LinkedIn](https://www.linkedin.com/in/raffaele-tarantino-368501b2)
+
+- [![Linkedin](https://img.shields.io/badge/-RaffaeleTarantino-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raffaele-tarantino-368501b2)
 - [Instagram](https://www.instagram.com/raffa_96t/)
 
 
