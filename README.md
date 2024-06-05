@@ -5,7 +5,7 @@
 </div>
 
 
-                                                 Junior Front-end Developer from Italy
+-------------------------------------------------Junior Front-end Developer from Italy---------------------------------------------------
 
 
 
@@ -16,7 +16,7 @@
 - React with Develhope
 
 **📫 How to Reach Me:**
-- [![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:raffaele11596@gmail.com)
+- [![Gmail Badge](https://img.shields.io/badge/-raffaele11596@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:raffaele11596@gmail.com)
 ---
 
 **Connect with Me:**
