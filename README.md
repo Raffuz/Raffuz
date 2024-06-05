@@ -1,11 +1,11 @@
---------------------------------------------------### Hi there 👋, I'm Raffaele Tarantino ----------------------------------------------
+-------------------------------------------------- Hi there 👋, I'm Raffaele Tarantino ---------------------------------------------------
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
 
--------------------------------------------------Junior Front-end Developer from Italy---------------------------------------------------
+------------------------------------------------- Junior Front-end Developer from Italy ---------------------------------------------------
 
 
 
